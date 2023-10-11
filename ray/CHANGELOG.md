@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Changed***:
+
+* Bump the Python version from py3.9 to py3.11 ([#15997](https://github.com/DataDog/integrations-core/pull/15997))
+
 ***Fixed***:
 
 * Add the log section in the configuration file ([#15978](https://github.com/DataDog/integrations-core/pull/15978))

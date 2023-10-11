@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Changed***:
+
+* Bump the Python version from py3.9 to py3.11 ([#15997](https://github.com/DataDog/integrations-core/pull/15997))
+
 ## 2.9.1 / 2023-08-18 / Agent 7.48.0
 
 ***Fixed***:

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Changed***:
+
+* Bump the Python version from py3.9 to py3.11 ([#15997](https://github.com/DataDog/integrations-core/pull/15997))
+
 ***Fixed***:
 
 * Properly decode query_hash when statement_text is None ([#15974](https://github.com/DataDog/integrations-core/pull/15974))

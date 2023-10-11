@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Changed***:
+
+* Bump the Python version from py3.9 to py3.11 ([#15997](https://github.com/DataDog/integrations-core/pull/15997))
+
 ***Added***:
 
 * Add option to control the connection timeout ([#14110](https://github.com/DataDog/integrations-core/pull/14110))

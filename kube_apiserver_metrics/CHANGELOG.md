@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Changed***:
+
+* Bump the Python version from py3.9 to py3.11 ([#15997](https://github.com/DataDog/integrations-core/pull/15997))
+
 ***Added***:
 
 * Add etcd.db.total_size for Kubernetes 1.26, 1.27, and 1.28 ([#15940](https://github.com/DataDog/integrations-core/pull/15940))
